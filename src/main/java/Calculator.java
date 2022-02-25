@@ -2,8 +2,6 @@ import java.util.Random;
 
 class Calculator {
 
-    I live to break the project!
-
     Calculator(){
 
     }
